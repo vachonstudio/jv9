@@ -1,0 +1,17 @@
+{
+  "name": "Vachon UX Design Studio",
+  "short_name": "Vachon",
+  "description": "Crafting digital experiences that matter. UX design studio specializing in transforming complex problems into intuitive digital solutions.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#3B82F6",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}

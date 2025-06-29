@@ -1,0 +1,66 @@
+WEBFLOW IMPORT PACKAGE - VACHON UX STUDIO
+=========================================
+
+To use this package with Webflow:
+
+1. QUICK IMPORT (Copy & Paste Method):
+   - Open index.html in a text editor
+   - Copy ALL content
+   - Create new Webflow site
+   - Paste into HTML embed or custom code areas
+
+2. MANUAL SETUP (Component Method):
+   - Use index.html as reference for structure
+   - Copy class names and styling from styles.css
+   - Recreate components in Webflow Designer
+   - Add script.js to site footer
+
+3. HYBRID APPROACH (Recommended):
+   - Import main structure using method 1
+   - Refine styling using Webflow Designer
+   - Keep JavaScript functionality intact
+
+FILES INCLUDED:
+===============
+- index.html (Main page structure)
+- styles.css (Complete styling)
+- script.js (Interactive functionality)
+- favicon.svg (Site icon)
+- site.webmanifest (PWA manifest)
+- README.md (Detailed instructions)
+
+FEATURES INCLUDED:
+==================
+✅ Responsive design (mobile-first)
+✅ Dark/light theme toggle
+✅ Interactive gradient gallery
+✅ Portfolio showcase with protected content
+✅ Contact form with validation
+✅ Blog section
+✅ Smooth scroll navigation
+✅ Animations and micro-interactions
+✅ Accessibility features
+✅ SEO optimization
+
+CUSTOMIZATION:
+==============
+- Colors: Edit CSS custom properties in :root
+- Fonts: Change font-family declarations
+- Layout: Modify grid and flexbox properties
+- Content: Replace text and images with your own
+
+BROWSER SUPPORT:
+================
+✅ Chrome/Edge 88+
+✅ Firefox 85+
+✅ Safari 14+
+✅ Mobile browsers (iOS Safari, Chrome Mobile)
+
+PERFORMANCE:
+============
+- Lightweight: ~50KB total
+- Fast loading: Optimized CSS and JS
+- Mobile optimized: Touch-friendly interactions
+- Accessible: WCAG compliant markup
+
+Need help? Check README.md for detailed instructions!
